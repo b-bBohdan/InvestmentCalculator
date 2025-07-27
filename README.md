@@ -8,7 +8,7 @@ This project was built while following the tutorial
 - Building responsive UI
 
 ## Getting Started
-
+```bash
 npm install
 npm run dev
 
